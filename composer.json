@@ -1,0 +1,13 @@
+{
+    "name": "roysegall/nuntius-doc",
+    "description": "Documentation for Nuntius-bot",
+    "require": {
+        "justinwalsh/daux.io": "^0.3.2"
+    },
+    "authors": [
+        {
+            "name": "Roy Segall",
+            "email": "roy.segall@gizra.com"
+        }
+    ]
+}

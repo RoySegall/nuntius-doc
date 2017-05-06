@@ -1,0 +1,10 @@
+{
+  "title": "Nnutius documentation",
+  "float": false,
+  "repo": "roysegall/nuntius-bot",
+  "google_analytics": "UA-98663880-1",
+  "breadcrumbs": true,
+  "breadcrumb_separator" : " > ",
+  "tagline": "Develop smart bot easily",
+  "image": "logo.png"
+}
