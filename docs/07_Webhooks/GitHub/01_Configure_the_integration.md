@@ -32,3 +32,6 @@ live entity view option:
 ```bash
 php console.php nuntius:entity logger live_view
 ```
+
+This will output the next result in the terminal:
+![Setup](../../images/webhook-step-5.png)
